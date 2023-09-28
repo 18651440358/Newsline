@@ -1,16 +1,32 @@
-# newsline_app
+# Newsline
+> ## Continuously updating...
 
-A new Flutter project.
+<img width="150" src="https://github.com/18651440358/Newsline/assets/44701892/a01e25b5-468f-4b00-b1b5-0f79d9a540d5" />
 
-## Getting Started
+Engilsh  |  [简体中文](https://github.com/18651440358/Newsline/edit/main/README.md)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+This is a news media type App that uses **Flutter** technology to write code. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The APP has a dark night mode. Use Redux to cache user login information, APP themes...
+    
+<br/><br/><br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Below are some internal screenshots of the APP
+
+#### Home Page
+<img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/a4a9791b-c743-46d6-8fad-3785fd79e2a9"><img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/b43e0646-1b2b-4ef4-a182-0d7b2254f44e">
+
+#### Discovery Page
+<img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/38a4ec0d-b33a-4239-87ed-090f4be296f9"><img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/9abeeac6-7821-4376-b44d-80851e7175e2">
+
+#### Bookmark Page
+<img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/3016e7e6-737b-4617-9c87-c2ee18e4dc04"><img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/58657f31-05c4-4068-9cd4-e5dd3d2de36a">
+
+#### Profile Page
+<img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/946772e4-a4fc-49e2-ba4e-cc4e3d4c8575"><img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/27486d38-034e-4ecb-8835-fd153d812af7">
+
+
+
+
