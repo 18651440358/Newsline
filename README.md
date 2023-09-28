@@ -27,6 +27,14 @@ The APP has a dark night mode. Use Redux to cache user login information, APP th
 #### Profile Page
 <img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/946772e4-a4fc-49e2-ba4e-cc4e3d4c8575"><img width="50%" src="https://github.com/18651440358/Newsline/assets/44701892/27486d38-034e-4ecb-8835-fd153d812af7">
 
+<br/><br/>
 
+### If you want to contact me
+Email: 2657487207@qq.com
 
+WeChat: rabbitdoomsday
+
+twitter: @Rabbit_Volcano
+
+QQ: 2657487207
 
