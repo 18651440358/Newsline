@@ -1,0 +1,134 @@
+name: newsline_app
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+    sdk: '>=3.0.5 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+    flutter:
+        sdk: flutter
+        
+    redux: ^5.0.0
+    flutter_redux: ^0.10.0
+    flutter_screenutil: ^5.9.0
+    badges: ^3.1.1
+    dart_mock: ^2.0.0
+    intl: ^0.18.1
+    bot_toast: ^4.1.3
+    flutter_boxicons: ^3.0.0
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+    cupertino_icons: ^1.0.2
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+    flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+    uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+    assets:
+        - static/logo/logo.png
+
+        - static/tabbar/home_noraml.png
+        - static/tabbar/home_prossed.png
+        - static/tabbar/discovery_normal.png
+        - static/tabbar/discovery_prossed.png
+        - static/tabbar/bookmark_normal.png
+        - static/tabbar/bookmark_prossed.png
+        - static/tabbar/profile_normal.png
+        - static/tabbar/profile_prossed.png
+
+        - static/portrait/portrait.png
+        - static/portrait/Ellipse.png
+        - static/portrait/Ellipse (13).png
+        - static/portrait/Ellipse (12).png
+        - static/portrait/Type=Default, Component=Avatar (1).png
+        - static/portrait/Ellipse (11).png
+        - static/portrait/Ellipse (10).png
+        - static/portrait/Ellipse (9).png
+        - static/portrait/Ellipse (8).png
+        - static/portrait/Ellipse (7).png
+        - static/portrait/Ellipse (6).png
+        - static/portrait/Type=Default, Component=Avatar.png
+        - static/portrait/Ellipse (5).png
+        - static/portrait/Ellipse (4).png
+        - static/portrait/Ellipse (3).png
+        - static/portrait/Ellipse (2).png
+        - static/portrait/Ellipse (1).png
+        - static/portrait/Ellipse 213.png
+
+        - static/news/default.png
+        - static/news/joseph-sharp-w0oooJfpIy0-unsplash 1.png
+        - static/news/benoit-debaix-c-HGZNddplw-unsplash 1.png
+        - static/news/neom-4AADxUsnufQ-unsplash 1.png
+        - static/news/Rectangle.png
+        - static/news/richard-stachmann-eVhh7cI4A04-unsplash 1.png
+        - static/news/richard-stachmann-GgmZ23grWNY-unsplash 1.png
+        - static/news/chinh-le-duc-VGaXLW6axSQ-unsplash 1.png
+        - static/news/chris-lawton-vBA-JNHAraI-unsplash 1.png
+        - static/news/john-thomas-LtE6W_JVTGc-unsplash 1.png
+        - static/news/leon-elldot-C8Q_zR8PDlA-unsplash 1.png
+        - static/news/premium_photo-1661604042122-2851 1.png
+        - static/news/premium_photo-1683121426841-a2d6 1.png
+        - static/news/ehimetalor-akhere-unuabona-DFDY2xIog1g-unsplash 1.png
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
