@@ -3,7 +3,7 @@
 
 <img width="150" src="https://github.com/18651440358/Newsline/assets/44701892/a01e25b5-468f-4b00-b1b5-0f79d9a540d5" />
 
-[Engilsh](https://github.com/18651440358/Newsline/edit/main/README.md)  |  简体中文
+[Engilsh](https://github.com/18651440358/Newsline/blob/main/README.md)  |  简体中文
 
 ---
 
